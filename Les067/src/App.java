@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.Les067;
-
 public class App {
 
     public static void main(String[] args) {
