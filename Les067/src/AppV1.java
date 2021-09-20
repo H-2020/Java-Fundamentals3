@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.Les067;
-
 public class AppV1 {
     // RULE_METHOD:
     /* een methode is een code-block dat ALLEEN wordt uitgevoerd asls het wordt aangeroepen */
