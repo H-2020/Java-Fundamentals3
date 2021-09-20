@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.Les067;
-
 public class Calculator {
     // METHOD_RULE : methods does not have to contain a method parameters
     // return_type method_name (params: data_type1 param_name2, data_type2 param_name2 ...  )
