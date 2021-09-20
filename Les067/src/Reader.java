@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.Les067;
-
 import java.util.Scanner;
 
 public class Reader {
