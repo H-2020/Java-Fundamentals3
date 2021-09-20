@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.Les067;
-
 public class Printer {
     // voor een method is gecreëerd,
     // vraag eerst: "hoeveel instanties van deze klas heb ik nodig" om in een andere klas te gebruiken?
